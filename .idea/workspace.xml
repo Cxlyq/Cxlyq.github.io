@@ -23,18 +23,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\cx\Downloads\html5up-dimension\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\cx\Downloads\html5up-dimension\images" />
       <recent name="C:\Users\cx\Downloads\html5up-dimension\audio\favorite" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\cx\Downloads\html5up-dimension\images" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -54,6 +54,13 @@
       <workItem from="1648442739264" duration="505000" />
       <workItem from="1648477189663" duration="5541000" />
       <workItem from="1648483110444" duration="77000" />
+      <workItem from="1648652986642" duration="961000" />
+      <workItem from="1648742266523" duration="667000" />
+      <workItem from="1648953832097" duration="872000" />
+      <workItem from="1648955414597" duration="344000" />
+      <workItem from="1648997297095" duration="290000" />
+      <workItem from="1648999811074" duration="612000" />
+      <workItem from="1649169887219" duration="1458000" />
     </task>
     <servers />
   </component>
@@ -69,14 +76,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="465" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1648481989112" />
-    <state x="583" y="207" key="FileChooserDialogImpl" timestamp="1648396087906">
+    <state x="583" y="207" key="FileChooserDialogImpl" timestamp="1648999825364">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="583" y="207" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1648396087906" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1648477239138">
+    <state x="583" y="207" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1648999825364" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1648999810924">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1648477239138" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1648999810924" />
     <state x="178" y="48" key="new project wizard" timestamp="1648477427694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
