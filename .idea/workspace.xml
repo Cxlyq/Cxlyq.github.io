@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddbcd86c-e8fc-4d8e-8801-9e1affefc88e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +29,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MY JAVA/ownweb" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -67,6 +68,8 @@
       <workItem from="1648999811074" duration="612000" />
       <workItem from="1649169887219" duration="1458000" />
       <workItem from="1649172236410" duration="24000" />
+      <workItem from="1649518980993" duration="47000" />
+      <workItem from="1650899297947" duration="275000" />
     </task>
     <servers />
   </component>
@@ -82,14 +85,14 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="465" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1648481989112" />
-    <state x="583" y="207" key="FileChooserDialogImpl" timestamp="1648999825364">
+    <state x="583" y="207" key="FileChooserDialogImpl" timestamp="1649519026055">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="583" y="207" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1648999825364" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1649172235690">
+    <state x="583" y="207" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1649519026055" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1650899297618">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1649172235690" />
+    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1650899297618" />
     <state x="178" y="48" key="new project wizard" timestamp="1648477427694">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
