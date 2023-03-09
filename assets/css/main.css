@@ -731,10 +731,9 @@ input, select, textarea {
 	}
 	#head{
 		position: absolute;
-		top: -1px;
 		right: 0%;
-		max-height: 200px;
-		max-width: 200px;
+		max-height: 210px;
+		max-width: 210px;
 		width: 105%;
 		height: 105%;
 		border-radius: 50%;
@@ -1678,4 +1677,9 @@ input, select, textarea {
 
 		body.is-preload #footer {
 			opacity: 0;
+		}
+
+		.containImage{
+			max-width: 700px;
+			max-height: 700px;
 		}

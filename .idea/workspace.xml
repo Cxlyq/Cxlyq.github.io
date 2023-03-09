@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ddbcd86c-e8fc-4d8e-8801-9e1affefc88e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/Bao_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Bao_birthday.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,16 +28,20 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="26yVxAByQND9TC1QTb7BZoCRvhA" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MY JAVA/ownweb" />
+    <property name="last_opened_file_path" value="C:/MY JAVA/ownweb" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -70,36 +82,29 @@
       <workItem from="1649172236410" duration="24000" />
       <workItem from="1649518980993" duration="47000" />
       <workItem from="1650899297947" duration="275000" />
+      <workItem from="1674609106023" duration="35000" />
+      <workItem from="1674609664015" duration="187000" />
+      <workItem from="1676543715312" duration="762000" />
+      <workItem from="1678365997777" duration="3917000" />
+      <workItem from="1678369946225" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="395" y="111" key="#Project_Structure" timestamp="1648396063994">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="732" y="343" key="FileChooserDialogImpl" timestamp="1678366855926">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="395" y="111" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1648396063994" />
-    <state x="465" y="217" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648481989112">
-      <screen x="0" y="0" width="1536" height="816" />
+    <state x="732" y="343" key="FileChooserDialogImpl/0.0.2048.1152/2560.0.2048.1152@0.0.2048.1152" timestamp="1678366855926" />
+    <state x="631" y="490" key="com.intellij.ide.util.TipDialog" timestamp="1678369947632">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="465" y="217" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1648481989112" />
-    <state x="583" y="207" key="FileChooserDialogImpl" timestamp="1649519026055">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="583" y="207" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1649519026055" />
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1650899297618">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="461" y="260" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1650899297618" />
-    <state x="178" y="48" key="new project wizard" timestamp="1648477427694">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="178" y="48" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1648477427694" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1648398833126">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1648398833126" />
+    <state x="631" y="490" key="com.intellij.ide.util.TipDialog/0.0.2048.1152/2560.0.2048.1152@0.0.2048.1152" timestamp="1678369947632" />
+    <state x="631" y="490" key="com.intellij.ide.util.TipDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1676543715306" />
   </component>
 </project>
