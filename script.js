@@ -104,8 +104,8 @@ canvas.addEventListener('mousemove', (event) => {
             x: mouse.x,
             y: mouse.y,
             radius: Math.random() * 4 + 2,
-            dx: (Math.random() - 0.5) * 0.1,
-            dy: (Math.random() - 0.5) * 0.1
+            dx: (Math.random() - 0.5) * 0.02,
+            dy: (Math.random() - 0.5) * 0.02
         });
 
         // 更新最后一次生成点的时间
