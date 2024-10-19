@@ -29,8 +29,8 @@ function createDots() {
             x: Math.random() * canvas.width,
             y: Math.random() * canvas.height,
             radius: Math.random() * 4 + 2,
-            dx: (Math.random() - 0.5) * 2,
-            dy: (Math.random() - 0.5) * 2
+            dx: (Math.random() - 0.5) * 1,
+            dy: (Math.random() - 0.5) * 1
         });
     }
 }
